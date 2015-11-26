@@ -14,7 +14,8 @@ function addCoin(event) {
 		.css({
 			position: 'absolute',
 			left: `${event.pageX}px`,
-			top: `${event.pageY}px`
+			top: `${event.pageY}px`,
+			zIndex: 100000
 		})
 		.appendTo(document.body);
 
