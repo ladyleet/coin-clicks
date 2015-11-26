@@ -13,8 +13,8 @@ function addCoin(event) {
 		.attr('src', '/coin-clicks/img/coin.gif')
 		.css({
 			position: 'absolute',
-			left: `${event.clientX}px`,
-			top: `${event.clientY}px`
+			left: `${event.pageX}px`,
+			top: `${event.pageY}px`
 		})
 		.appendTo(document.body);
 
