@@ -1,7 +1,7 @@
 {
   "name": "coin-clicks",
-  "version": "1.0.2",
-  "description": "The default blueprint for ember-cli addons.",
+  "version": "1.0.3",
+  "description": "Install mario coin easter egg with konami code.",
   "directories": {
     "doc": "doc",
     "test": "tests"
