@@ -4,6 +4,8 @@
 
 This README outlines the details of collaborating on this Ember addon.
 
+[![Introduction to Coin Clicks](https://i.vimeocdn.com/video/558765981_640x360.jpg)](https://vimeo.com/157481331)
+
 ## What Does This Add-On Do?
 * Love Mario and Nintendo? This adds mario coins to your site!
 * Yes, you can use this in production. And you should.
